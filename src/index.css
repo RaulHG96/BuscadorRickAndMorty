@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@font-face {
+    font-family: 'schiwfty';
+    src: local('schiwfty'), url('./assets/font/get_schwifty.ttf');
+}
+
+@tailwind utilities;
